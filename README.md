@@ -15,6 +15,7 @@
 - ASPNET Core Web Application with Bootstrap 5
 - Entity Framework Core with SQL Server Database
 - MVC Web Application
+- Payment integration with Stripe
 
 ### Microservices:
 - Product Microservice
