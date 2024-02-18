@@ -2,7 +2,7 @@
 ## Demo App Using MVC Web Application and Microservices
 
 
-- .NET Core Microservices - The Complete Guide (.NET 8 MVC)
+- .NET Core Microservices
 - Implementing 7 microservices using .NET 8
 - .NET API with Authentication and Authorization
 - Role based authorization with .NET Identity
