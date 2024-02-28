@@ -22,7 +22,7 @@ Website: [Dave's BBQ](https://mangoweb20240218153416.azurewebsites.net/)
 - MVC Web Application
 - Payment integration with Stripe
 
-### Microservices:
+### Microservices
 - Product Microservice
 - .NET Identity Microservice
 - Coupon Microservice
