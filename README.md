@@ -6,6 +6,7 @@ Website: [Dave's BBQ](https://mangoweb20240218153416.azurewebsites.net/)
 - Register as Customer for mock ordering
 - Register as Admin for content management (update products and coupons)
 
+### Technologies
 - .NET Core Microservices
 - Implementing 7 microservices using .NET 8
 - .NET API with Authentication and Authorization
