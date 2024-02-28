@@ -1,6 +1,10 @@
 # Dave's BBQ
 ## Demo App Using MVC Web Application and Microservices
 
+Website: [Dave's BBQ](https://mangoweb20240218153416.azurewebsites.net/)
+- Dummy Credit Card for testing: 4242 4242 4242 4242 (any future date and 3 digits)
+- Register as Customer for mock ordering
+- Register as Admin for content management (update products and coupons)
 
 - .NET Core Microservices
 - Implementing 7 microservices using .NET 8
